@@ -1,0 +1,17 @@
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/bin/Debug/net9.0/ising_app
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/bin/Debug/net9.0/ising_app.deps.json
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/bin/Debug/net9.0/ising_app.runtimeconfig.json
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/bin/Debug/net9.0/ising_app.dll
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/bin/Debug/net9.0/ising_app.pdb
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.AssemblyInfoInputs.cache
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.AssemblyInfo.cs
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.csproj.CoreCompileInputs.cache
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.dll
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/refint/ising_app.dll
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.pdb
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.genruntimeconfig.cache
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ref/ising_app.dll
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/bin/Debug/net9.0/MathNet.Numerics.dll
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.csproj.AssemblyReference.cache
+/Users/as56ohop/Documents/NAS_sync/PhD/code/ising_app/obj/Debug/net9.0/ising_app.csproj.Up2Date

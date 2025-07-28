@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ising_app", "ising_app.csproj", "{D28FABAF-D030-EC97-FED8-7BF54EC74FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28FABAF-D030-EC97-FED8-7BF54EC74FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28FABAF-D030-EC97-FED8-7BF54EC74FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28FABAF-D030-EC97-FED8-7BF54EC74FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28FABAF-D030-EC97-FED8-7BF54EC74FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE894453-A931-4CB7-B409-292589370E65}
+	EndGlobalSection
+EndGlobal
